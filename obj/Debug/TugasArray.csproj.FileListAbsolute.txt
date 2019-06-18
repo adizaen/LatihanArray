@@ -1,0 +1,7 @@
+D:\18.11.2269\Project\TugasArray\bin\Debug\TugasArray.exe.config
+D:\18.11.2269\Project\TugasArray\bin\Debug\TugasArray.exe
+D:\18.11.2269\Project\TugasArray\bin\Debug\TugasArray.pdb
+D:\18.11.2269\Project\TugasArray\obj\Debug\TugasArray.csprojAssemblyReference.cache
+D:\18.11.2269\Project\TugasArray\obj\Debug\TugasArray.csproj.CoreCompileInputs.cache
+D:\18.11.2269\Project\TugasArray\obj\Debug\TugasArray.exe
+D:\18.11.2269\Project\TugasArray\obj\Debug\TugasArray.pdb
